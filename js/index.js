@@ -93,7 +93,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
         if (quizItem.a == i) {
           //change background color of li element here
-          document.getElementById(id = li).style.backgroundColor = "  lightblue";
+          document.getElementById(id = li).style.backgroundColor = "lightblue";
 
         }
 
